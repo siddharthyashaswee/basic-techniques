@@ -1,0 +1,3 @@
+Ex. 3:
+* Triangle rasterization not working correctly
+* Rotation translates object 
